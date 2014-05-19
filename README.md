@@ -1,4 +1,3 @@
-xamarin-examples
-================
+## Xamarin Examples
 
-Xamarin Examples
+A collection of various Xamarin samples.

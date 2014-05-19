@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Broadcasting</string>
+	<string name="ButtonStartService">Start Service</string>
+	<string name="ButtonStopService">Stop Service</string>
+	<string name="LabelMessageToService">Message to service:</string>
+	<string name="LabelMessageFromService">Message from service:</string>
+	<string name="ButtonSendToService">Send to Service</string>
+</resources>
